@@ -1,1 +1,3 @@
-# epedemiological_sims
+# Epidemiological Simulations
+
+Sunday quaratine fun
